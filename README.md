@@ -10,3 +10,5 @@
 
 Donate || Донат
 XMR: 87QkhNtGVf1MYoyDZfrXUUD4cmM2ZL65dB5sHymzoE6CE1jomNDdeAP5QGGuzbVy7iMSFQrMKWoueEnWzAVtszWFKrc8odK
+
+Рекомендую после компиляции защищать билд от детектов с помощью https://github.com/yck1509/ConfuserEx/releases/tag/v1.0.0 (конфиг я оставил здесь)
