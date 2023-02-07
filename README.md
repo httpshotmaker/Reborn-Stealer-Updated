@@ -6,9 +6,7 @@
 
 ❗️ Written exclusively for educational purposes! I am not responsible for the use of this project and any of its parts code.
 
-Ну короче стиллер с отправкой логов в телеграм, достаточно хороший, похож по структуре на ешелон, но в принципе в основном только похож, расказать больше не чего, а ну поддержка Chrome v80+,Firefox v75+, стилит впн, криптокошельки, ваймворлд, стим, фтп, достает BSSID, токен и сессия дискорд, ну короче вы поняли
+Ну короче стиллер с отправкой логов в телеграм, достаточно хороший, похож по структуре на ешелон, но в принципе в основном только похож, расказать больше не чего, а ну поддержка Chrome v80+,Firefox v75+, стилит впн, криптокошельки, ваймворлд, стим, фтп, достает BSSID, токен и сессия дискорд.
 
-Donate || Донат (Помогите пж)
-Payeer: P1035065489
-Qiwi: 380992393528 
-BTC: 1Ed1rHXnXtC8bo9CFMqCjn7dRnu8QLa27J
+Donate || Донат
+XMR: 87QkhNtGVf1MYoyDZfrXUUD4cmM2ZL65dB5sHymzoE6CE1jomNDdeAP5QGGuzbVy7iMSFQrMKWoueEnWzAVtszWFKrc8odK
